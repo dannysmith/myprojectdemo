@@ -11,6 +11,10 @@ h1 {
   width: 70%;
 }
 
+h2 {
+  text-align: center;
+}
+
 p {
   letter-spacing: 1px;
   line-height: 1.3;
